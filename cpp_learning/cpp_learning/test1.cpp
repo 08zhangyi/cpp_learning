@@ -1,6 +1,6 @@
 #include <iostream>
 
-int h() {
+int main() {
 	std::cout << "Hello world!\n";
 	system("pause");
 	return 0;
