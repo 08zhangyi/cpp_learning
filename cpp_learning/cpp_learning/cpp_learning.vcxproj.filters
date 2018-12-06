@@ -29,5 +29,11 @@
     <ClInclude Include="Motto.h">
       <Filter>头文件\teach_yourself_cpp</Filter>
     </ClInclude>
+    <ClInclude Include="Calculator.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Sizer.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

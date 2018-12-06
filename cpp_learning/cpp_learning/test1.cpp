@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Motto.h"
+#include "Sizer.h"
 
 int main() {
 	mf();
