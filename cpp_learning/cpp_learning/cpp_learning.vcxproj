@@ -118,9 +118,19 @@
     <ClCompile Include="test1.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Area.h" />
     <ClInclude Include="Calculator.h" />
+    <ClInclude Include="Combat.h" />
+    <ClInclude Include="Compass.h" />
+    <ClInclude Include="Expression.h" />
+    <ClInclude Include="Grader.h" />
     <ClInclude Include="Motto.h" />
+    <ClInclude Include="NewGrader.h" />
+    <ClInclude Include="NewRectangle.h" />
+    <ClInclude Include="Rectangle.h" />
     <ClInclude Include="Sizer.h" />
+    <ClInclude Include="Temperature.h" />
+    <ClInclude Include="Years.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

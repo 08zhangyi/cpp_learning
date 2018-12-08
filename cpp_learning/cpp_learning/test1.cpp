@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Sizer.h"
+#include "Temperature.h"
 
 int main() {
-	mf();
+	int a = mf();
 	system("pause");
-	return 0;
+	return a;
 }
