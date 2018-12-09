@@ -24,6 +24,9 @@
     <ClCompile Include="test1.cpp">
       <Filter>源文件\随意练习</Filter>
     </ClCompile>
+    <ClCompile Include="Tricycle.cpp">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Motto.h">
@@ -96,6 +99,27 @@
       <Filter>头文件\teach_yourself_cpp</Filter>
     </ClInclude>
     <ClInclude Include="BadTeacher.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="WeightGoals.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="BridgeKeeper.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="StringCopier.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Production.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Tricycle.hpp">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="NewTricycle.hpp">
       <Filter>头文件\teach_yourself_cpp</Filter>
     </ClInclude>
   </ItemGroup>

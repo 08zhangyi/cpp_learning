@@ -1,5 +1,5 @@
 #include <iostream>
-#include "BadTeacher.h"
+#include "Tricycle.hpp"
 
 int main() {
 	int a = mf();

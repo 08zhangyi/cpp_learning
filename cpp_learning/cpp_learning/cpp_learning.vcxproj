@@ -116,6 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="test1.cpp" />
+    <ClCompile Include="Tricycle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Area.h" />
@@ -123,7 +124,9 @@
     <ClInclude Include="AutoCube.h" />
     <ClInclude Include="Badger.h" />
     <ClInclude Include="BadTeacher.h" />
+    <ClInclude Include="Box.h" />
     <ClInclude Include="BoxMaker.h" />
+    <ClInclude Include="BridgeKeeper.h" />
     <ClInclude Include="Calculator.h" />
     <ClInclude Include="Combat.h" />
     <ClInclude Include="Compass.h" />
@@ -137,10 +140,15 @@
     <ClInclude Include="MultTable.h" />
     <ClInclude Include="NewGrader.h" />
     <ClInclude Include="NewRectangle.h" />
+    <ClInclude Include="NewTricycle.hpp" />
+    <ClInclude Include="Production.h" />
     <ClInclude Include="Rectangle.h" />
     <ClInclude Include="Sizer.h" />
+    <ClInclude Include="StringCopier.h" />
     <ClInclude Include="Temperature.h" />
     <ClInclude Include="Thirteens.h" />
+    <ClInclude Include="Tricycle.hpp" />
+    <ClInclude Include="WeightGoals.h" />
     <ClInclude Include="Years.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
