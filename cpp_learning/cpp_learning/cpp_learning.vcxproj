@@ -119,17 +119,28 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Area.h" />
+    <ClInclude Include="AreaCube.h" />
+    <ClInclude Include="AutoCube.h" />
+    <ClInclude Include="Badger.h" />
+    <ClInclude Include="BadTeacher.h" />
+    <ClInclude Include="BoxMaker.h" />
     <ClInclude Include="Calculator.h" />
     <ClInclude Include="Combat.h" />
     <ClInclude Include="Compass.h" />
     <ClInclude Include="Expression.h" />
+    <ClInclude Include="Fifteens.h" />
+    <ClInclude Include="Fourteens.h" />
+    <ClInclude Include="Global.h" />
     <ClInclude Include="Grader.h" />
+    <ClInclude Include="LeapYear.h" />
     <ClInclude Include="Motto.h" />
+    <ClInclude Include="MultTable.h" />
     <ClInclude Include="NewGrader.h" />
     <ClInclude Include="NewRectangle.h" />
     <ClInclude Include="Rectangle.h" />
     <ClInclude Include="Sizer.h" />
     <ClInclude Include="Temperature.h" />
+    <ClInclude Include="Thirteens.h" />
     <ClInclude Include="Years.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

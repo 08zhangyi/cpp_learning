@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Temperature.h"
+#include "BadTeacher.h"
 
 int main() {
 	int a = mf();
