@@ -115,10 +115,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="test1.cpp" />
     <ClCompile Include="Tricycle.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Addresser.h" />
     <ClInclude Include="Area.h" />
     <ClInclude Include="AreaCube.h" />
     <ClInclude Include="AutoCube.h" />
@@ -141,8 +143,11 @@
     <ClInclude Include="NewGrader.h" />
     <ClInclude Include="NewRectangle.h" />
     <ClInclude Include="NewTricycle.hpp" />
+    <ClInclude Include="Pointer.h" />
+    <ClInclude Include="PointerCheck.h" />
     <ClInclude Include="Production.h" />
     <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="Rectangle.hpp" />
     <ClInclude Include="Sizer.h" />
     <ClInclude Include="StringCopier.h" />
     <ClInclude Include="Temperature.h" />

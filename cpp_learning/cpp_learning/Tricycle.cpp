@@ -13,7 +13,7 @@ void Tricycle::setSpeed(int newSpeed) {
 		speed = newSpeed;
 }
 
-int mf() {
+int tricycle_ns::mf() {
 	Tricycle wichita(5);
 	wichita.pedal();
 	wichita.pedal();

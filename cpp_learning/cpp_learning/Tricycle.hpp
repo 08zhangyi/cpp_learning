@@ -19,4 +19,6 @@ private:
 	int speed;
 };
 
-int mf();
+namespace tricycle_ns{
+	int mf();
+}

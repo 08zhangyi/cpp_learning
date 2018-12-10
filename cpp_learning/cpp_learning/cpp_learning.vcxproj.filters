@@ -24,6 +24,9 @@
     <ClCompile Include="test1.cpp">
       <Filter>源文件\随意练习</Filter>
     </ClCompile>
+    <ClCompile Include="Rectangle.cpp">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClCompile>
     <ClCompile Include="Tricycle.cpp">
       <Filter>头文件\teach_yourself_cpp</Filter>
     </ClCompile>
@@ -120,6 +123,18 @@
       <Filter>头文件\teach_yourself_cpp</Filter>
     </ClInclude>
     <ClInclude Include="NewTricycle.hpp">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Rectangle.hpp">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Addresser.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Pointer.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="PointerCheck.h">
       <Filter>头文件\teach_yourself_cpp</Filter>
     </ClInclude>
   </ItemGroup>
