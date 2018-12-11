@@ -137,5 +137,53 @@
     <ClInclude Include="PointerCheck.h">
       <Filter>头文件\teach_yourself_cpp</Filter>
     </ClInclude>
+    <ClInclude Include="Heap.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Swapper.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="HeapCreater.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="HeapAccessor.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="DataMember.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="This.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="This1.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="ConstPointer.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Reference.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Reference2.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Assignment.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="ValuePasser.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="PointerSwap.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="ReferenceSwap.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="ReturnPointer.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="ReturnReference.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
