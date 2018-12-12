@@ -1,13 +1,41 @@
 #pragma once
 #include <iostream>
 
-int mf() {
-	unsigned short width = 26, length;
-	length = 40;
-	unsigned short area = width * length;
+class RectangleAll {
+public:
+	RectangleAll(int width, int height);
+	~RectangleAll() {}
 
-	std::cout << "Width: " << width << "\n";
-	std::cout << "Length: " << length << "\n";
-	std::cout << "Area: " << area << "\n";
+	void drawShape() const;
+	void drawShape(int width, int height) const;
+
+private:
+	int width;
+	int height;
+};
+
+RectangleAll::RectangleAll(int newWidth, int newHeight) {
+	width = newWidth;
+	height = newHeight;
+}
+
+void RectangleAll::drawShape() const {
+	drawShape(width, height);
+}
+
+void RectangleAll::drawShape(int width, int height) const {
+	for (int i = 0; i < height; i++) {
+		for (int j = 0; j < width; j++)
+			std::cout << "*";
+		std::cout << std::endl;
+	}
+}
+
+int mf() {
+	RectangleAll box(30, 5);
+	std::cout << "dwarShape():" << std::endl;
+	box.drawShape();
+	std::cout << "\ndrawShape(40, 2):" << std::endl;
+	box.drawShape(40, 2);
 	return 0;
 }
