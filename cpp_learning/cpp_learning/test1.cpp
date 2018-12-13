@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Rectangle2.h"
+#include "Counter7.h"
 
 int main() {
 	int a = mf();
