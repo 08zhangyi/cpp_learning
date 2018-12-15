@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Counter7.h"
+#include "Animal.h"
 
 int main() {
-	int a = mf();
+	int a = a185::mf();
 	system("pause");
 	return a;
 }

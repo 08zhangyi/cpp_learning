@@ -121,6 +121,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Addresser.h" />
+    <ClInclude Include="Animal.h" />
     <ClInclude Include="Area.h" />
     <ClInclude Include="AreaCube.h" />
     <ClInclude Include="Assignment.h" />
@@ -156,6 +157,19 @@
     <ClInclude Include="HeapCreater.h" />
     <ClInclude Include="Leak.h" />
     <ClInclude Include="LeapYear.h" />
+    <ClInclude Include="Mammal1.h" />
+    <ClInclude Include="Mammal10.h" />
+    <ClInclude Include="Mammal11.h" />
+    <ClInclude Include="Mammal12.h" />
+    <ClInclude Include="Mammal13h.h" />
+    <ClInclude Include="Mammal2.h" />
+    <ClInclude Include="Mammal3.h" />
+    <ClInclude Include="Mammal4.h" />
+    <ClInclude Include="Mammal5.h" />
+    <ClInclude Include="Mammal6.h" />
+    <ClInclude Include="Mammal7.h" />
+    <ClInclude Include="Mammal8.h" />
+    <ClInclude Include="Mammal9.h" />
     <ClInclude Include="Motto.h" />
     <ClInclude Include="MultTable.h" />
     <ClInclude Include="NewGrader.h" />
@@ -176,6 +190,8 @@
     <ClInclude Include="ReturnPointer.h" />
     <ClInclude Include="ReturnRef.h" />
     <ClInclude Include="ReturnReference.h" />
+    <ClInclude Include="Shape.h" />
+    <ClInclude Include="Shape2.h" />
     <ClInclude Include="Sizer.h" />
     <ClInclude Include="StringCopier.h" />
     <ClInclude Include="Swapper.h" />
