@@ -284,5 +284,14 @@
     <ClInclude Include="Animal.h">
       <Filter>头文件\teach_yourself_cpp</Filter>
     </ClInclude>
+    <ClInclude Include="Exception.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="PolyException.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="1_1_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -120,6 +120,7 @@
     <ClCompile Include="Tricycle.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="1_1_1.h" />
     <ClInclude Include="Addresser.h" />
     <ClInclude Include="Animal.h" />
     <ClInclude Include="Area.h" />
@@ -147,6 +148,7 @@
     <ClInclude Include="Counter7.h" />
     <ClInclude Include="DataMember.h" />
     <ClInclude Include="DeepCopy.h" />
+    <ClInclude Include="Exception.h" />
     <ClInclude Include="Expression.h" />
     <ClInclude Include="Fifteens.h" />
     <ClInclude Include="Fourteens.h" />
@@ -179,6 +181,7 @@
     <ClInclude Include="Pointer.h" />
     <ClInclude Include="PointerCheck.h" />
     <ClInclude Include="PointerSwap.h" />
+    <ClInclude Include="PolyException.h" />
     <ClInclude Include="Production.h" />
     <ClInclude Include="Rectangle.h" />
     <ClInclude Include="Rectangle.hpp" />

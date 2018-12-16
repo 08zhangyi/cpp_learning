@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Animal.h"
+#include "PolyException.h"
 
 int main() {
-	int a = a185::mf();
+	int a = mf();
 	system("pause");
 	return a;
 }
