@@ -293,5 +293,11 @@
     <ClInclude Include="1_1_1.h">
       <Filter>头文件\scifinance</Filter>
     </ClInclude>
+    <ClInclude Include="ParamList.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="TemplateList.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -178,6 +178,7 @@
     <ClInclude Include="NewRectangle.h" />
     <ClInclude Include="NewTricycle.hpp" />
     <ClInclude Include="ObjectRef.h" />
+    <ClInclude Include="ParamList.h" />
     <ClInclude Include="Pointer.h" />
     <ClInclude Include="PointerCheck.h" />
     <ClInclude Include="PointerSwap.h" />
@@ -199,6 +200,7 @@
     <ClInclude Include="StringCopier.h" />
     <ClInclude Include="Swapper.h" />
     <ClInclude Include="Temperature.h" />
+    <ClInclude Include="TemplateList.h" />
     <ClInclude Include="Thirteens.h" />
     <ClInclude Include="This.h" />
     <ClInclude Include="This1.h" />
