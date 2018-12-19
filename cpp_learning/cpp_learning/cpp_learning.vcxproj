@@ -125,8 +125,10 @@
     <ClInclude Include="Animal.h" />
     <ClInclude Include="Area.h" />
     <ClInclude Include="AreaCube.h" />
+    <ClInclude Include="ArrayMaxer.h" />
     <ClInclude Include="Assignment.h" />
     <ClInclude Include="Assignment1.h" />
+    <ClInclude Include="AutoArea.h" />
     <ClInclude Include="AutoCube.h" />
     <ClInclude Include="Badger.h" />
     <ClInclude Include="BadTeacher.h" />
@@ -159,6 +161,7 @@
     <ClInclude Include="HeapCreater.h" />
     <ClInclude Include="Leak.h" />
     <ClInclude Include="LeapYear.h" />
+    <ClInclude Include="LinkedList.h" />
     <ClInclude Include="Mammal1.h" />
     <ClInclude Include="Mammal10.h" />
     <ClInclude Include="Mammal11.h" />
