@@ -200,6 +200,9 @@
     <ClInclude Include="Shape.h" />
     <ClInclude Include="Shape2.h" />
     <ClInclude Include="Sizer.h" />
+    <ClInclude Include="StaticFunction.h" />
+    <ClInclude Include="StaticRobot.h" />
+    <ClInclude Include="String.hpp" />
     <ClInclude Include="StringCopier.h" />
     <ClInclude Include="Swapper.h" />
     <ClInclude Include="Temperature.h" />

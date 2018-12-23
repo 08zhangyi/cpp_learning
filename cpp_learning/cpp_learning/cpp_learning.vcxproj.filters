@@ -308,5 +308,14 @@
     <ClInclude Include="ArrayMaxer.h">
       <Filter>头文件\teach_yourself_cpp</Filter>
     </ClInclude>
+    <ClInclude Include="StaticRobot.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticFunction.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="String.hpp">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

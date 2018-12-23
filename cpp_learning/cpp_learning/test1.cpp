@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ArrayMaxer.h"
+#include "StaticFunction.h"
 
 int main() {
 	int a = mf();
