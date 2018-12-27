@@ -1,5 +1,6 @@
 ﻿  Rectangle.cpp
   test1.cpp
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\driver.h(51): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
   Tricycle.cpp
   正在生成代码...
   cpp_learning.vcxproj -> D:\vs_projects\cpp_learning\cpp_learning\x64\Debug\cpp_learning.exe

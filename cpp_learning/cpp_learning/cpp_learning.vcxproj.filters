@@ -317,5 +317,35 @@
     <ClInclude Include="String.hpp">
       <Filter>头文件\teach_yourself_cpp</Filter>
     </ClInclude>
+    <ClInclude Include="Employee.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="FunctionPointer.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayFunction.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="FunctionPasser.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="MemberPointer.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="MPFunction.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleEvent.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="PostMasterMessage.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="Driver.h">
+      <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClInclude>
+    <ClInclude Include="1_1_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

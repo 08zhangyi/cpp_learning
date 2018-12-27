@@ -121,10 +121,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="1_1_1.h" />
+    <ClInclude Include="1_1_2.h" />
     <ClInclude Include="Addresser.h" />
     <ClInclude Include="Animal.h" />
     <ClInclude Include="Area.h" />
     <ClInclude Include="AreaCube.h" />
+    <ClInclude Include="ArrayFunction.h" />
     <ClInclude Include="ArrayMaxer.h" />
     <ClInclude Include="Assignment.h" />
     <ClInclude Include="Assignment1.h" />
@@ -150,10 +152,14 @@
     <ClInclude Include="Counter7.h" />
     <ClInclude Include="DataMember.h" />
     <ClInclude Include="DeepCopy.h" />
+    <ClInclude Include="Driver.h" />
+    <ClInclude Include="Employee.h" />
     <ClInclude Include="Exception.h" />
     <ClInclude Include="Expression.h" />
     <ClInclude Include="Fifteens.h" />
     <ClInclude Include="Fourteens.h" />
+    <ClInclude Include="FunctionPasser.h" />
+    <ClInclude Include="FunctionPointer.h" />
     <ClInclude Include="Global.h" />
     <ClInclude Include="Grader.h" />
     <ClInclude Include="Heap.h" />
@@ -175,7 +181,9 @@
     <ClInclude Include="Mammal7.h" />
     <ClInclude Include="Mammal8.h" />
     <ClInclude Include="Mammal9.h" />
+    <ClInclude Include="MemberPointer.h" />
     <ClInclude Include="Motto.h" />
+    <ClInclude Include="MPFunction.h" />
     <ClInclude Include="MultTable.h" />
     <ClInclude Include="NewGrader.h" />
     <ClInclude Include="NewRectangle.h" />
@@ -186,6 +194,7 @@
     <ClInclude Include="PointerCheck.h" />
     <ClInclude Include="PointerSwap.h" />
     <ClInclude Include="PolyException.h" />
+    <ClInclude Include="PostMasterMessage.h" />
     <ClInclude Include="Production.h" />
     <ClInclude Include="Rectangle.h" />
     <ClInclude Include="Rectangle.hpp" />
@@ -199,6 +208,7 @@
     <ClInclude Include="ReturnReference.h" />
     <ClInclude Include="Shape.h" />
     <ClInclude Include="Shape2.h" />
+    <ClInclude Include="SimpleEvent.h" />
     <ClInclude Include="Sizer.h" />
     <ClInclude Include="StaticFunction.h" />
     <ClInclude Include="StaticRobot.h" />
