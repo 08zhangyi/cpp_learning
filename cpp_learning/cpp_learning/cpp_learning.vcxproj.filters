@@ -22,6 +22,9 @@
     <Filter Include="头文件\scifinance">
       <UniqueIdentifier>{adb60262-9d13-4e9b-888a-20c300dcade6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件\newmat10">
+      <UniqueIdentifier>{44473f11-1ef9-414a-b0fc-ba58cb6d043f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test1.cpp">
@@ -32,6 +35,162 @@
     </ClCompile>
     <ClCompile Include="Tricycle.cpp">
       <Filter>头文件\teach_yourself_cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\bandmat.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\cholesky.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\evalue.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\example.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\fft.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\garch.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\hholder.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\jacobi.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\myexcept.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newfft.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmat1.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmat2.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmat3.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmat4.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmat5.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmat6.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmat7.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmat8.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmat9.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmatex.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmatnl.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\newmatrm.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\nl_ex.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\sl_ex.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\solution.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\sort.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\submat.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\svd.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\test_exc.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmt.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmt1.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmt2.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmt3.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmt4.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmt5.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmt6.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmt7.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmt8.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmt9.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmta.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmtb.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmtc.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmtd.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmte.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmtf.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmtg.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmth.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmti.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmtj.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmtk.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmtl.cpp">
+      <Filter>头文件\newmat10</Filter>
+    </ClCompile>
+    <ClCompile Include="newmat10\tmtm.cpp">
+      <Filter>头文件\newmat10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -347,5 +506,155 @@
     <ClInclude Include="1_1_2.h">
       <Filter>头文件\scifinance</Filter>
     </ClInclude>
+    <ClInclude Include="1_1_3.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_1_4.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_1_5.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_2_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_2_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_3_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_3_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_3_3.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_3_4.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_3_5.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_3_6.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_4_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\boolean.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\controlw.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\include.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\myexcept.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\newmat.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\newmatap.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\newmatio.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\newmatnl.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\newmatrc.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\newmatrm.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\precisio.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\solution.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+    <ClInclude Include="newmat10\tmt.h">
+      <Filter>头文件\newmat10</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="newmat10\add_time.png">
+      <Filter>头文件\newmat10</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="newmat10\AUTHORS.txt">
+      <Filter>头文件\newmat10</Filter>
+    </Text>
+    <Text Include="newmat10\COPYING.txt">
+      <Filter>头文件\newmat10</Filter>
+    </Text>
+    <Text Include="newmat10\example.txt">
+      <Filter>头文件\newmat10</Filter>
+    </Text>
+    <Text Include="newmat10\garch.txt">
+      <Filter>头文件\newmat10</Filter>
+    </Text>
+    <Text Include="newmat10\nl_ex.txt">
+      <Filter>头文件\newmat10</Filter>
+    </Text>
+    <Text Include="newmat10\nm_targ.txt">
+      <Filter>头文件\newmat10</Filter>
+    </Text>
+    <Text Include="newmat10\README.txt">
+      <Filter>头文件\newmat10</Filter>
+    </Text>
+    <Text Include="newmat10\sl_ex.txt">
+      <Filter>头文件\newmat10</Filter>
+    </Text>
+    <Text Include="newmat10\test_exc.txt">
+      <Filter>头文件\newmat10</Filter>
+    </Text>
+    <Text Include="newmat10\tmt.txt">
+      <Filter>头文件\newmat10</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="newmat10\garch.dat">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\newmat.lfl">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\nm_b55.mak">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\nm_cc.mak">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\nm_gnu.mak">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\nm_i8.mak">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\nm_il8.mak">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\nm_m6.mak">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\nm_m8.mak">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\nm_ow.mak">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\nm10.htm">
+      <Filter>头文件\newmat10</Filter>
+    </None>
+    <None Include="newmat10\rbd.css">
+      <Filter>头文件\newmat10</Filter>
+    </None>
   </ItemGroup>
 </Project>

@@ -1,6 +1,101 @@
-﻿  Rectangle.cpp
+﻿  bandmat.cpp
+  cholesky.cpp
+  evalue.cpp
+  example.cpp
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\example.cpp(339): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\example.cpp(339): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+  fft.cpp
+  garch.cpp
+  hholder.cpp
+  jacobi.cpp
+  myexcept.cpp
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\myexcept.cpp(77): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  newfft.cpp
+  newmat1.cpp
+  newmat2.cpp
+  newmat3.cpp
+  newmat4.cpp
+  newmat5.cpp
+  newmat6.cpp
+  newmat7.cpp
+  newmat8.cpp
+  newmat9.cpp
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\newmat9.cpp(41): warning C4244: “初始化”: 从“std::streamsize”转换到“int”，可能丢失数据
+  newmatex.cpp
+  正在生成代码...
+  正在编译...
+  newmatnl.cpp
+  newmatrm.cpp
+  nl_ex.cpp
+  sl_ex.cpp
+  solution.cpp
+  sort.cpp
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\sort.cpp(101): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\sort.cpp(101): warning C4244: “初始化”: 从“__int64”转换到“const int”，可能丢失数据
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\sort.cpp(162): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\sort.cpp(162): warning C4244: “初始化”: 从“__int64”转换到“const int”，可能丢失数据
+  submat.cpp
+  svd.cpp
+  test_exc.cpp
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\test_exc.cpp(171): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\test_exc.cpp(171): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\test_exc.cpp(175): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\test_exc.cpp(175): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+  tmt.cpp
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt.cpp(232): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt.cpp(232): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt.cpp(236): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt.cpp(236): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+  tmt1.cpp
+  tmt2.cpp
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(138): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(138): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(141): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(141): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(144): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(144): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(147): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(147): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(155): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(155): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(158): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(158): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(161): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(161): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(164): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(164): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(172): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(172): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(175): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(175): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(178): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(178): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(181): warning C4311: “类型强制转换”: 从“Real *”到“unsigned long”的指针截断
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(181): warning C4302: “类型强制转换”: 从“Real *”到“unsigned long”截断
+  tmt3.cpp
+  tmt4.cpp
+  tmt5.cpp
+  tmt6.cpp
+  tmt7.cpp
+  tmt8.cpp
+  tmt9.cpp
+  tmta.cpp
+  正在生成代码...
+  正在编译...
+  tmtb.cpp
+  tmtc.cpp
+  tmtd.cpp
+  tmte.cpp
+  tmtf.cpp
+  tmtg.cpp
+  tmth.cpp
+  tmti.cpp
+  tmtj.cpp
+  tmtk.cpp
+  tmtl.cpp
+  tmtm.cpp
+  Rectangle.cpp
   test1.cpp
-d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\driver.h(51): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
   Tricycle.cpp
   正在生成代码...
   cpp_learning.vcxproj -> D:\vs_projects\cpp_learning\cpp_learning\x64\Debug\cpp_learning.exe

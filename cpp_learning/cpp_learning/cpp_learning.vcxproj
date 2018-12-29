@@ -84,7 +84,13 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
     </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+    </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>
@@ -115,6 +121,58 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="newmat10\bandmat.cpp" />
+    <ClCompile Include="newmat10\cholesky.cpp" />
+    <ClCompile Include="newmat10\evalue.cpp" />
+    <ClCompile Include="newmat10\example.cpp" />
+    <ClCompile Include="newmat10\fft.cpp" />
+    <ClCompile Include="newmat10\garch.cpp" />
+    <ClCompile Include="newmat10\hholder.cpp" />
+    <ClCompile Include="newmat10\jacobi.cpp" />
+    <ClCompile Include="newmat10\myexcept.cpp" />
+    <ClCompile Include="newmat10\newfft.cpp" />
+    <ClCompile Include="newmat10\newmat1.cpp" />
+    <ClCompile Include="newmat10\newmat2.cpp" />
+    <ClCompile Include="newmat10\newmat3.cpp" />
+    <ClCompile Include="newmat10\newmat4.cpp" />
+    <ClCompile Include="newmat10\newmat5.cpp" />
+    <ClCompile Include="newmat10\newmat6.cpp" />
+    <ClCompile Include="newmat10\newmat7.cpp" />
+    <ClCompile Include="newmat10\newmat8.cpp" />
+    <ClCompile Include="newmat10\newmat9.cpp" />
+    <ClCompile Include="newmat10\newmatex.cpp" />
+    <ClCompile Include="newmat10\newmatnl.cpp" />
+    <ClCompile Include="newmat10\newmatrm.cpp" />
+    <ClCompile Include="newmat10\nl_ex.cpp" />
+    <ClCompile Include="newmat10\sl_ex.cpp" />
+    <ClCompile Include="newmat10\solution.cpp" />
+    <ClCompile Include="newmat10\sort.cpp" />
+    <ClCompile Include="newmat10\submat.cpp" />
+    <ClCompile Include="newmat10\svd.cpp" />
+    <ClCompile Include="newmat10\test_exc.cpp" />
+    <ClCompile Include="newmat10\tmt.cpp" />
+    <ClCompile Include="newmat10\tmt1.cpp" />
+    <ClCompile Include="newmat10\tmt2.cpp" />
+    <ClCompile Include="newmat10\tmt3.cpp" />
+    <ClCompile Include="newmat10\tmt4.cpp" />
+    <ClCompile Include="newmat10\tmt5.cpp" />
+    <ClCompile Include="newmat10\tmt6.cpp" />
+    <ClCompile Include="newmat10\tmt7.cpp" />
+    <ClCompile Include="newmat10\tmt8.cpp" />
+    <ClCompile Include="newmat10\tmt9.cpp" />
+    <ClCompile Include="newmat10\tmta.cpp" />
+    <ClCompile Include="newmat10\tmtb.cpp" />
+    <ClCompile Include="newmat10\tmtc.cpp" />
+    <ClCompile Include="newmat10\tmtd.cpp" />
+    <ClCompile Include="newmat10\tmte.cpp" />
+    <ClCompile Include="newmat10\tmtf.cpp" />
+    <ClCompile Include="newmat10\tmtg.cpp" />
+    <ClCompile Include="newmat10\tmth.cpp" />
+    <ClCompile Include="newmat10\tmti.cpp" />
+    <ClCompile Include="newmat10\tmtj.cpp" />
+    <ClCompile Include="newmat10\tmtk.cpp" />
+    <ClCompile Include="newmat10\tmtl.cpp" />
+    <ClCompile Include="newmat10\tmtm.cpp" />
     <ClCompile Include="Rectangle.cpp" />
     <ClCompile Include="test1.cpp" />
     <ClCompile Include="Tricycle.cpp" />
@@ -122,6 +180,18 @@
   <ItemGroup>
     <ClInclude Include="1_1_1.h" />
     <ClInclude Include="1_1_2.h" />
+    <ClInclude Include="1_1_3.h" />
+    <ClInclude Include="1_1_4.h" />
+    <ClInclude Include="1_1_5.h" />
+    <ClInclude Include="1_2_1.h" />
+    <ClInclude Include="1_2_2.h" />
+    <ClInclude Include="1_3_1.h" />
+    <ClInclude Include="1_3_2.h" />
+    <ClInclude Include="1_3_3.h" />
+    <ClInclude Include="1_3_4.h" />
+    <ClInclude Include="1_3_5.h" />
+    <ClInclude Include="1_3_6.h" />
+    <ClInclude Include="1_4_1.h" />
     <ClInclude Include="Addresser.h" />
     <ClInclude Include="Animal.h" />
     <ClInclude Include="Area.h" />
@@ -186,6 +256,19 @@
     <ClInclude Include="MPFunction.h" />
     <ClInclude Include="MultTable.h" />
     <ClInclude Include="NewGrader.h" />
+    <ClInclude Include="newmat10\boolean.h" />
+    <ClInclude Include="newmat10\controlw.h" />
+    <ClInclude Include="newmat10\include.h" />
+    <ClInclude Include="newmat10\myexcept.h" />
+    <ClInclude Include="newmat10\newmat.h" />
+    <ClInclude Include="newmat10\newmatap.h" />
+    <ClInclude Include="newmat10\newmatio.h" />
+    <ClInclude Include="newmat10\newmatnl.h" />
+    <ClInclude Include="newmat10\newmatrc.h" />
+    <ClInclude Include="newmat10\newmatrm.h" />
+    <ClInclude Include="newmat10\precisio.h" />
+    <ClInclude Include="newmat10\solution.h" />
+    <ClInclude Include="newmat10\tmt.h" />
     <ClInclude Include="NewRectangle.h" />
     <ClInclude Include="NewTricycle.hpp" />
     <ClInclude Include="ObjectRef.h" />
@@ -224,6 +307,37 @@
     <ClInclude Include="ValuePasser.h" />
     <ClInclude Include="WeightGoals.h" />
     <ClInclude Include="Years.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="newmat10\add_time.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="newmat10\AUTHORS.txt" />
+    <Text Include="newmat10\COPYING.txt" />
+    <Text Include="newmat10\example.txt" />
+    <Text Include="newmat10\garch.txt" />
+    <Text Include="newmat10\nl_ex.txt" />
+    <Text Include="newmat10\nm_targ.txt" />
+    <Text Include="newmat10\README.txt" />
+    <Text Include="newmat10\sl_ex.txt" />
+    <Text Include="newmat10\test_exc.txt" />
+    <Text Include="newmat10\tmt.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="newmat10\garch.dat" />
+    <None Include="newmat10\newmat.lfl" />
+    <None Include="newmat10\nm10.htm">
+      <DeploymentContent>true</DeploymentContent>
+    </None>
+    <None Include="newmat10\nm_b55.mak" />
+    <None Include="newmat10\nm_cc.mak" />
+    <None Include="newmat10\nm_gnu.mak" />
+    <None Include="newmat10\nm_i8.mak" />
+    <None Include="newmat10\nm_il8.mak" />
+    <None Include="newmat10\nm_m6.mak" />
+    <None Include="newmat10\nm_m8.mak" />
+    <None Include="newmat10\nm_ow.mak" />
+    <None Include="newmat10\rbd.css" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
