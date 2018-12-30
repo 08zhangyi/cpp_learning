@@ -192,6 +192,17 @@
     <ClInclude Include="1_3_5.h" />
     <ClInclude Include="1_3_6.h" />
     <ClInclude Include="1_4_1.h" />
+    <ClInclude Include="1_4_2.h" />
+    <ClInclude Include="1_4_3.h" />
+    <ClInclude Include="2_1_1.h" />
+    <ClInclude Include="2_1_2.h" />
+    <ClInclude Include="2_1_3.h" />
+    <ClInclude Include="2_2_1.h" />
+    <ClInclude Include="2_2_2.h" />
+    <ClInclude Include="2_2_3.h" />
+    <ClInclude Include="2_2_4.h" />
+    <ClInclude Include="2_3_1.h" />
+    <ClInclude Include="2_3_2.h" />
     <ClInclude Include="Addresser.h" />
     <ClInclude Include="Animal.h" />
     <ClInclude Include="Area.h" />

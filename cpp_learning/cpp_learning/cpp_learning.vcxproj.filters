@@ -581,6 +581,39 @@
     <ClInclude Include="newmat10\tmt.h">
       <Filter>头文件\newmat10</Filter>
     </ClInclude>
+    <ClInclude Include="1_4_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="1_4_3.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="2_1_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="2_1_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="2_1_3.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="2_2_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="2_2_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="2_2_3.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="2_2_4.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="2_3_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="2_3_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="newmat10\add_time.png">

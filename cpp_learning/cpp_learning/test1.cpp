@@ -1,5 +1,5 @@
 #include <iostream>
-#include "1_4_1.h"
+#include "2_3_2.h"
 
 int main() {
 	int a = mf();
