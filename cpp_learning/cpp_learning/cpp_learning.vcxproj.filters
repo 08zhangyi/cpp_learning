@@ -614,6 +614,15 @@
     <ClInclude Include="2_3_2.h">
       <Filter>头文件\scifinance</Filter>
     </ClInclude>
+    <ClInclude Include="3_1_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="3_1_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="3_3_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="newmat10\add_time.png">
