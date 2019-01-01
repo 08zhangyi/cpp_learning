@@ -62,7 +62,7 @@ int mf()
 	V.element(0, 1) = 0.0;
 	V.element(1, 1) = 1.0;
 	double u = 0.075;
-	Matrix w = weight_calculate_portpolio_given_mean_unconstrained(e, V, u);
+	Matrix w = weight_calculate_portpolio_given_mean_unconstrained(V, e, u);
 	cout << "w1£º" << w.element(0, 0) << endl;
 	cout << "w2£º" << w.element(1, 0) << endl;
 	return 0;
