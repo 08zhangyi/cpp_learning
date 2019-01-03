@@ -632,6 +632,30 @@
     <ClInclude Include="3_4_2.h">
       <Filter>头文件\scifinance</Filter>
     </ClInclude>
+    <ClInclude Include="4_1_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="4_1_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="normdist.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="5_3_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="5_3_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="5_4_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="5_4_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="5_5_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="newmat10\add_time.png">

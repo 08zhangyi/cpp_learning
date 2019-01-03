@@ -209,6 +209,13 @@
     <ClInclude Include="3_3_2.h" />
     <ClInclude Include="3_4_1.h" />
     <ClInclude Include="3_4_2.h" />
+    <ClInclude Include="4_1_1.h" />
+    <ClInclude Include="4_1_2.h" />
+    <ClInclude Include="5_3_1.h" />
+    <ClInclude Include="5_3_2.h" />
+    <ClInclude Include="5_4_1.h" />
+    <ClInclude Include="5_4_2.h" />
+    <ClInclude Include="5_5_1.h" />
     <ClInclude Include="Addresser.h" />
     <ClInclude Include="Animal.h" />
     <ClInclude Include="Area.h" />
@@ -288,6 +295,7 @@
     <ClInclude Include="newmat10\tmt.h" />
     <ClInclude Include="NewRectangle.h" />
     <ClInclude Include="NewTricycle.hpp" />
+    <ClInclude Include="normdist.h" />
     <ClInclude Include="ObjectRef.h" />
     <ClInclude Include="ParamList.h" />
     <ClInclude Include="Pointer.h" />
