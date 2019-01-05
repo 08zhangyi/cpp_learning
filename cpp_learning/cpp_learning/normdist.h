@@ -1,6 +1,7 @@
 #pragma once
 #include <math.h>
 #include <iostream>
+#include <random>
 
 double N(const double& x)
 {
@@ -20,4 +21,17 @@ double N(const double& x)
 	n = 1.0 - b * n;
 	if (x < 0.0) { n = 1.0 - n; }
 	return n;
+}
+
+double n(const double& x)
+{
+	return 1 / sqrt(2 * 3.14159265358979) * exp(-x * x / 2);
+}
+
+double random_normal()
+{
+	std::default_random_engine generator;
+	std::normal_distribution<double> distribution(0.0, 1.0);
+	double number = distribution(generator);
+	return number;
 }
