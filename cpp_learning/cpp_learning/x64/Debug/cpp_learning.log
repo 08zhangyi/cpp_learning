@@ -1,5 +1,4 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : 文件“d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\x64\debug\tmth.obj”正由另一进程使用，因此该进程无法访问此文件。
-  bandmat.cpp
+﻿  bandmat.cpp
   cholesky.cpp
   evalue.cpp
   example.cpp
@@ -97,6 +96,7 @@ d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(181): wa
   tmtm.cpp
   Rectangle.cpp
   test1.cpp
+d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\6_2_5.h(48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   Tricycle.cpp
   正在生成代码...
   cpp_learning.vcxproj -> D:\vs_projects\cpp_learning\cpp_learning\x64\Debug\cpp_learning.exe

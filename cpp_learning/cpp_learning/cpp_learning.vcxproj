@@ -224,6 +224,11 @@
     <ClInclude Include="6_1_4.h" />
     <ClInclude Include="6_1_5.h" />
     <ClInclude Include="6_1_6.h" />
+    <ClInclude Include="6_2_1.h" />
+    <ClInclude Include="6_2_2.h" />
+    <ClInclude Include="6_2_3.h" />
+    <ClInclude Include="6_2_4.h" />
+    <ClInclude Include="6_2_5.h" />
     <ClInclude Include="Addresser.h" />
     <ClInclude Include="Animal.h" />
     <ClInclude Include="Area.h" />
