@@ -96,7 +96,6 @@ d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\newmat10\tmt2.cpp(181): wa
   tmtm.cpp
   Rectangle.cpp
   test1.cpp
-d:\vs_projects\cpp_learning\cpp_learning\cpp_learning\6_2_5.h(48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   Tricycle.cpp
   正在生成代码...
   cpp_learning.vcxproj -> D:\vs_projects\cpp_learning\cpp_learning\x64\Debug\cpp_learning.exe
