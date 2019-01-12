@@ -725,6 +725,21 @@
     <ClInclude Include="7_2_1.h">
       <Filter>头文件\scifinance</Filter>
     </ClInclude>
+    <ClInclude Include="7_2_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="7_2_3.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="7_2_4.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="7_3_1.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
+    <ClInclude Include="7_3_2.h">
+      <Filter>头文件\scifinance</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Image Include="newmat10\add_time.png">
